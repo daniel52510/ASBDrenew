@@ -8,3 +8,4 @@ This will be created via a mix of HTML, CSS (Bootstrap), and Javascript.
 
 
 Author: Daniel Blazquez
+Contributor: Macarthur Desire
